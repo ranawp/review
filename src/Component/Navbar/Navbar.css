@@ -1,0 +1,14 @@
+.navbar a {
+    text-decoration: none;
+    color: white;
+    margin-right: .8rem;
+
+}
+
+.navbar {
+    height: 4rem;
+    background-color: rgb(61, 114, 128);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
