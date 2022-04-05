@@ -4,10 +4,16 @@ import PieCharts from '../Chart/PieCharts';
 
 const Dashboard = () => {
     return (
-        <div>
-            <h4>this is Dashboard page</h4>
-            <Chart></Chart>
-            <PieCharts></PieCharts>
+        <div className='container mt-5'>
+
+            <div className='row'>
+                <div className='col-md-6'>
+                    <Chart></Chart>
+                </div>
+                <div className='col-md-6'>
+                    <PieCharts></PieCharts>
+                </div>
+            </div>
         </div>
     );
 };

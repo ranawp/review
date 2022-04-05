@@ -12,3 +12,7 @@
     align-items: center;
     justify-content: center;
 }
+
+.navbar a:hover {
+    color: rgb(194, 193, 192);
+}
