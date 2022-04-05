@@ -13,10 +13,12 @@ const Home = () => {
     return (
         <>
             <div className='heroSection'>
-                <div className='left-section'>
-                    <h1>Find your favorite resort <br /> in Cox's Bazar. </h1>
-                    <p>Enjoy your best time with your friends and familly. We are here to help you booking resort with special discount for you.Let's enjoy!!!!</p>
-                    <button className='bookButton'>Book Now</button>
+                <div className='left-section d-flex align-items-center '>
+                    <div>
+                        <h1>Find your favorite resort <br /> in Cox's Bazar. </h1>
+                        <p>Enjoy your best time with your friends and familly. We are here to help you booking resort with special discount for you.Let's enjoy!!!!</p>
+                        <button className='bookButton'>Book Now</button>
+                    </div>
 
                 </div>
                 <div>
