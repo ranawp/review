@@ -23,14 +23,14 @@ const Home = () => {
                     <img className='hero-section-image' src={resortPhoto} alt="resturantphoto" />
                 </div>
             </div>
-            <h1 className='reviewHeader'>Reviews: {reviews.length} </h1>
+            <h1 className='reviewHeader'>Reviews: {reviews.slice(0, 3).length} </h1>
 
 
             <div className='container mt-4'>
                 <div className='row gy-4 gx-5'>
 
                     {
-                        reviews.map(review =>
+                        reviews.slice(0, 3).map(review =>
                             <ReviewCart
                                 cart={review.id}
                                 review={review}
