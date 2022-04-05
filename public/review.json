@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Jhon",
+        "comments": "It was amazing. We will come again",
+        "rattings": "9/10",
+        "img": "../src/assets/photo/1.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "Innani",
+        "comments": "We will remember this resort moment.Service is amazing",
+        "rattings": "8/10",
+        "img": "../src/assets/photo/2.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "Koel",
+        "comments": "This resort are safe and enjoyble",
+        "rattings": "9/10",
+        "img": "../src/assets/photo/3.jpeg"
+    },
+    {
+        "id": "4",
+        "name": "Mimi",
+        "comments": "Love this resort",
+        "rattings": "8/10",
+        "img": "../src/assets/photo/4.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "Mickle",
+        "comments": "It is safe and beautiful",
+        "rattings": "9/10",
+        "img": "../src/assets/photo/5.jpeg"
+    },
+    {
+        "id": "6",
+        "name": "Kamal",
+        "comments": "Never forget this moment",
+        "rattings": "10/8",
+        "img": "../src/assets/photo/6.jpeg"
+    }
+]

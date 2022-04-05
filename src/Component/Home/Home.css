@@ -1,0 +1,54 @@
+.heroSection {
+    display: flex;
+    width: 90%;
+    margin: 2rem auto;
+}
+
+.left-section h1 {
+    color: rgb(61, 114, 128);
+}
+
+.left-section p {
+    width: 80%;
+
+}
+
+
+.hero-section-image {
+    width: 300px;
+}
+
+.bookButton {
+    background-color: rgb(61, 114, 128);
+    color: white;
+    border: none;
+    height: 2rem;
+    width: 6rem;
+    border-radius: .3rem;
+}
+
+.reviewHeader {
+    text-align: center;
+    margin: auto;
+}
+
+.show-more-button {
+    width: 9rem;
+    background-color: rgb(61, 114, 128);
+    color: white;
+    border: none;
+    border-radius: .3rem;
+    margin: auto;
+
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
